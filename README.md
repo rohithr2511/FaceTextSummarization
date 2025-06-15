@@ -106,7 +106,7 @@ We included 5 sample documents and their corresponding summaries in the `samples
 ## ✍️ Author
 
 **P Rohith Raveendran**
-[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/p-rohith-raveendran-dataanalyst/)) | [GitHub](https://github.com/rohithr2511)
+[LinkedIn](https://www.linkedin.com/in/p-rohith-raveendran-dataanalyst/) | [GitHub](https://github.com/rohithr2511)
 
 ---
 
