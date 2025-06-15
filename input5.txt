@@ -1,0 +1,5 @@
+This study investigates the role of gut microbiota in modulating human immune response and its implications for autoimmune diseases. Using a cohort of 500 individuals, we performed metagenomic sequencing and immunoprobing to analyze correlations between microbial diversity and cytokine expression. The results revealed a strong association between reduced microbial diversity and elevated pro-inflammatory markers such as IL-6 and TNF-α.
+
+Furthermore, the presence of certain bacterial strains like *Faecalibacterium prausnitzii* was found to have anti-inflammatory properties, potentially offering therapeutic benefits. The findings support the hypothesis that dysbiosis contributes to autoimmune pathogenesis and highlight the potential of microbiome-based diagnostics and treatments.
+
+Future research should focus on longitudinal studies and clinical trials to validate these associations and translate them into targeted therapies.
